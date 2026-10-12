@@ -1,9 +1,4 @@
-﻿
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using Diakapp;
+﻿using Diakapp;
 
 List<Diak> lista = new List<Diak>();
 int hibasSorokSzama = 0;
